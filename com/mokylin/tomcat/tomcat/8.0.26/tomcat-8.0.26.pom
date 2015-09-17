@@ -7,7 +7,7 @@
     <groupId>com.mokylin.tomcat</groupId>
     <artifactId>tomcat</artifactId>
     <version>8.0.26</version>
-	<packaging>pom</packaging>
+	
 
     <properties>
         <!-- github server corresponds to entry in ~/.m2/settings.xml -->
